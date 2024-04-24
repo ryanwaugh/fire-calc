@@ -10,3 +10,7 @@ A simple JavaFX app to calculate your FIRE target amount*, and visualize your sa
 
 Credit to Engaging Data for their calculator, from which this was heavily inspired:
 [`engaging-data.com/fire-calculator`](https://engaging-data.com/fire-calculator/)
+
+## Requirements
+
+- Eclipse Temurin JDK with Hotspot 17.0.10+7
